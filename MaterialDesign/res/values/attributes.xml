@@ -32,6 +32,7 @@
         <attr name="rippleBorderRadius" format="float" />
         <!-- if true, delays calls to OnClickListeners until ripple effect ends -->
         <attr name="clickAfterRipple" format="boolean" />
+        <attr name="checked" format="boolean" />
     </declare-styleable>
 
 </resources>

@@ -38,7 +38,7 @@ public class WidgetActivity extends Activity {
 							@Override
 							public void onClick(View v) {
 								ButtonFlat btn = (ButtonFlat) findViewById(R.id.buttonSnackBar);
-								btn.setTextColor(Color.RED);
+//								btn.setTextColor(Color.RED);
 							}
 						}).show();
 			}

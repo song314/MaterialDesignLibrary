@@ -71,7 +71,7 @@ public class CheckBox extends CustomView {
 			});
 
 		checkView = new Check(getContext());
-        checkView.setId(View.generateViewId());
+//        checkView.setId(View.generateViewId());
 		RelativeLayout.LayoutParams params = new LayoutParams(Utils.dpToPx(20,
 				getResources()), Utils.dpToPx(20, getResources()));
 		params.addRule(RelativeLayout.CENTER_IN_PARENT, RelativeLayout.TRUE);
